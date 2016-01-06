@@ -1,2 +1,2 @@
 # imageSlider
-图片查看控件
+Image View Control 
